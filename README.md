@@ -16,7 +16,14 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture
+
+### Compétences techniques
+- **Langages :** Python, JavaScript, java, R, C#.
+- **Technologies front-end :** HTML, CSS, Bootstrap, JavaScript, TypeScript.
+- **Bases de données :** Familier avec SQL 
+
+
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
