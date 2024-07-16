@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/Achraf-Abid?color=green&logo=github)
+
 ![](https://komarev.com/ghpvc/?username=Achraf-Abid)
 
 <h3 align="center">Driven by an unwavering fascination for AI's transformative power, I'm captivated by its intricate fusion of data and algorithms. From creating neural networks for natural language nuances to fostering innovation through continuous learning, I'm committed to AI's evolution. Recognized for multicultural teamwork and attention to detail, I aim for an environment that fuels professional growth and impactful human-machine collaboration.</h3>
