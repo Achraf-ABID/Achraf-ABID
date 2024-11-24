@@ -1,44 +1,68 @@
-<p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
-  </p>
-<h1 align="center">👋 I'm Abid Achraf👋 </h1>
-
-<div align="center">
-
-
-![](https://komarev.com/ghpvc/?username=Achraf-Abid)
-
-<h3 align="center">Driven by an unwavering fascination for AI's transformative power, I'm captivated by its intricate fusion of data and algorithms. From creating neural networks for natural language nuances to fostering innovation through continuous learning, I'm committed to AI's evolution. Recognized for multicultural teamwork and attention to detail, I aim for an environment that fuels professional growth and impactful human-machine collaboration.</h3>
-
-![image](https://media.bizj.us/view/img/10755766/gettyimages-802851578*900xx5000-2813-0-290.jpg)
-
-
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture
-
-### Compétences techniques
-- **Langages :** Python, JavaScript, java, R, C#.
-- **Technologies front-end :** HTML, CSS, Bootstrap, JavaScript, TypeScript.
-- **Bases de données :** Familier avec SQL 
-
-
-
-<br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/achraf-abid-1b1788284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannai mortadha" height="30" width="40" /></a>
-<a href="https://www.facebook.com/achraf.abid.79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mortadha mannai" height="30" width="40" /></a>
-<a href="https://www.instagram.com/achraf.abid_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mortadha_mannai" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=500&color=00ADB5&center=true&vCenter=true&width=435&lines=Data+Science+Student;Passionate+About+AI+and+ML;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
+---
+
+## 👋 Hi, I'm **Achraf ABID**
+
+I’m a **Data Science student** with a deep interest in exploring and mastering fields like **Machine Learning**, **Deep Learning**, and **Big Data**. My mission is to turn complex data into actionable insights and create solutions that truly make an impact.
+
+---
+
+### 🚀 **About Me**
+- 🎓 Studying **Data Science and AI**
+- 🌟 Passionate about **Big Data & Advanced Machine Learning**
+- 🌱 Exploring **Data Engineering** and **Cloud Technologies**
+
+---
+
+### 🛠️ **Skills**
+#### **Programming Languages**  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
 
 
+#### **Libraries/Frameworks**  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
+#### **Big Data Technologies**
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+
+#### **Tools**
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+
+#### **Databases**
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+
+---
+
+### 🌟 **Highlights**
+- 📊 **Data Science Projects**: Hands-on experience with real-world datasets and machine learning models.
+- 🔬 **Research Experience**: Conducted research on improving model accuracy and generalization.
+- 🌐 **Open Source Contributions**: Active participation in open-source projects in AI and ML.
+- 🚦 **Traffic Data Augmentation with GANs**: Developed a method to augment traffic congestion datasets by generating spectrograms of audio data classified into three categories (low, medium, high) using Generative Adversarial Networks (GANs).
+
+---
+
+### 📫 **Get In Touch**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-abid1/)  
+[<img src="https://img.shields.io/badge/Kaggle-Follow-blue?logo=kaggle&style=social" height="22" title="Follow me on Kaggle" />](https://www.kaggle.com/achrafabid7)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/achraf.abid_/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abidachraf200@gmail.com)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
